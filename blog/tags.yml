@@ -1,0 +1,14 @@
+myway+:
+  label: MyWay+
+  permalink: /myway+
+  description: Posts related to the MyWay+ ticketing system
+
+actgov:
+  label: ACT Government
+  permalink: /actgov
+  description: Posts related to the ACT Government
+
+nec:
+  label: NEC
+  permalink: /nec
+  description: Posts related to the consultancy firm NEC
