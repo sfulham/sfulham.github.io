@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"MyWay+ Vulnerabilities","permalink":"/blog/mywayplus-vulnerabilities","unlisted":false,"date":"2024-02-21T00:00:00.000Z"}]}')}}]);
