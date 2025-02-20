@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[947],{6600:e=>{e.exports=JSON.parse('{"authors":[{"name":"Shaun Fulham","title":"Student @ ANU; Owner @ Riverland Technology Services","url":"https://riverlandtech.au","page":{"permalink":"/blog/authors/sfulham"},"socials":{"github":"https://github.com/sfulham"},"key":"sfulham","count":1}]}')}}]);
