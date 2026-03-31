@@ -17,7 +17,7 @@
     "@docusaurus/core": "^3.7.0",
     "@docusaurus/preset-classic": "^3.7.0",
     "@mdx-js/react": "^3.0.0",
-    "@svgr/webpack": "^5.5.0",
+    "@svgr/webpack": "^8.1.0",
     "clsx": "^1.1.1",
     "docusaurus-portfolio-plugin": "^1.0.1",
     "docusaurus-portfolio-theme": "^1.0.2",
